@@ -8,6 +8,7 @@ A computer vision system that detects road hazards from a live dashcam or webcam
 
 India records over 1.5 lakh road accident deaths every year. A significant portion happen at night on highways and semi-urban roads where stray cattle, pedestrians, and cyclists are nearly invisible in low light. Drivers have no warning system. RoadGuard is built to change that.
 
+This project is an evolution of my earlier [cattle-alert](https://github.com/lavanyakarna/cattle-alert) system, expanded to detect all road hazards with a proximity-based alert system.
 ---
 
 ## 💡 What It Does
